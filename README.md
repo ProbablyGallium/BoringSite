@@ -1,1 +1,2 @@
-BoringSite
+# BoringSite
+A boring site.
